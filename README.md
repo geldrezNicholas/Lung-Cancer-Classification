@@ -7,7 +7,7 @@ This project implements a Convolutional Neural Network (CNN) using TensorFlow/Ke
 - **lung_n** – Normal lung tissue  
 - **lung_scc** – Squamous cell carcinoma  
 
-The goal is to build and train a CNN capable of accurately classifying lung images. The model uses TensorFlow’s deep learning framework and achieves an **average accuracy of around 90%** when tested on unseen data.
+The goal is to build and train a CNN capable of accurately classifying lung images. The model uses TensorFlow’s deep learning framework and achieves an **average accuracy of 90%** when tested on unseen data.
 
 ---
 
